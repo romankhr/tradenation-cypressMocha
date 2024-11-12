@@ -3,3 +3,7 @@ node_modules/
 
 # Logs
 *.log
+
+# Cypress mochawesome report files
+cypress/reports/
+mochawesome.json
