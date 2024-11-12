@@ -10,4 +10,4 @@ npm install
  npx cypress run --browser chrome
 
 4. Open report
-mochawesome.html from root directory in a browser
+mochawesome-report\mochawesome.html in a browser

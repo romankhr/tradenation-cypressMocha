@@ -6,4 +6,7 @@ node_modules/
 
 # Cypress mochawesome report files
 cypress/reports/
+mochawesome-report
+cypress/videos
+cypress/screenshots
 mochawesome.json
